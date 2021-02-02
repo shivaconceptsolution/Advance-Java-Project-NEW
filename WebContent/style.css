@@ -1,0 +1,29 @@
+*
+{
+	margin:0px;
+}
+
+header
+{
+	height:100px;
+	background-color: blue;
+}
+header a
+{
+	color:white;
+}
+section
+{
+	height:600px;
+	background-color:black;
+}
+
+section p
+{
+	color:white;
+}
+footer
+{
+	height:100px;
+	background-color: blue;
+}
